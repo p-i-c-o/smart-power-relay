@@ -68,7 +68,7 @@ Use an ESPHome docker container or [ESPHome Web](https://web.esphome.io/) instan
 
 ## How to Contribute
 ### Issues
-Please fill out and submit [this](issue-template.md) template when submitting an issue.
+Please fill out and submit the issue template when submitting an issue.
 
 ## License(s)
 Firmware, config snippets & scripts: **MIT License**
