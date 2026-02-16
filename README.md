@@ -1,9 +1,11 @@
 ![Banner](banner.png)
 
-**Status:** Completed, but documentation is WIP\
-**Category:** Mixed\
-**Version:** `V1`\
-**Updated:** 2026-02-16
+<p align="center">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Completed%2C%20docs%20are%20WIP-blue">
+  <img alt="Category" src="https://img.shields.io/badge/Category-Mixed-lightgrey">
+  <img alt="Version" src="https://img.shields.io/badge/Version-V1-orange">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026--02--16-brightgreen">
+</p>
 
 ## Overview
 - **Goal:** A simple relay box that is smart controlled
