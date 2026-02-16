@@ -10,7 +10,7 @@
 ## Overview
 - **Goal:** A simple relay box that is smart controlled
 - **Why:** Control lights.
-- **Out of scope:** More industrial utilities
+- **Out of scope:** More industrial uses
 
 
 ## Highlights
