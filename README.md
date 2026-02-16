@@ -15,7 +15,7 @@
 
 ## Highlights
 - 3D Printed Enclosure
-- ESPHome to Home Assistant
+- Home Assistant integration throgh ESPHome
 - Simple Assembly
 - Robust yet easy design
 
