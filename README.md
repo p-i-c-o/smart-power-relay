@@ -4,8 +4,8 @@
 
 **Status:** Completed, but documentation is WIP\
 **Category:** Mixed\
-**Version:** [v1]\
-**Updated:** [2026-02-16]
+**Version:** `V1`\
+**Updated:** 2026-02-16
 
 ## Overview
 - **Goal:** A simple relay box that is smart controlled
