@@ -1,6 +1,4 @@
-# Smart Power Relay
-
-> Simple design for a smart relay box
+![Banner](banner.png)
 
 **Status:** Completed, but documentation is WIP\
 **Category:** Mixed\
