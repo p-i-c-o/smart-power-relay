@@ -1,0 +1,53 @@
+title: Smart Power Relay
+version: v1
+repo: smart-relay-power
+
+sections:
+  - name: Electronics
+    items:
+      - name: WROOM ESP32 CH340C Type-C Micro-controller
+        qty: 1
+        link: https://de.aliexpress.com/item/1005005953505528.html
+        img: assets/esp32_800x600.png
+      - name: 3.3V Single Channel Relay
+        qty: 1
+        link: https://de.aliexpress.com/item/1005007693151843.html
+      - name: Female to Female jumper (DuPont) cables
+        qty: 3
+
+  - name: Hardware
+    items:
+      - name: Male Cable Plug
+        qty: 1
+      - name: Female Cable Plug
+        qty: 1
+      - name: 3-core mains cable (L/N/PE)
+        qty: 1
+        length: 40 cm
+      - name: M3x8mm Bolts
+        qty: 6
+      - name: M3x10mm Bolts
+        qty: 4
+      - name: M3 Nuts
+        qty: 4
+      - name: Zipties
+        qty: 2
+
+  - name: 3D Printed
+    notes:
+      - kind: caution
+        text: "I'd recommend printing these pieces in PETG or any high-temp tolerating material to prevent the chances of heat warping the case."
+    items:
+      - name: Box Base
+        qty: 1
+        file: CAD/stls/v1/box.stl
+      - name: Box Lid
+        qty: 1
+        file: CAD/stls/v1/lid.stl
+
+  - name: Tools
+    items:
+      - name: Phillips Screwdriver
+        qty: 1
+      - name: Hex Screwdriver (for M3 bolts)
+        qty: 1
